@@ -1,9 +1,9 @@
 {
-    "save_path": "D:/Downloads",
+    "save_path": "xxxxxxx",
     "save_path_info": "就算是windows路径也请用 '/' ,而不是反斜杠(可以留空)",
-    "user_lst": "saomugoudoi",
+    "user_lst": "xxxx",
     "user_lst_info": "填入要下载的用户名(@后面的字符),支持多用户下载,用户名字间逗号(英文逗号)隔开",
-    "cookie": "auth_token=b4a14a5f32385885d74e96ff72a5532f718f5007; ct0=29e16501feb4a98f02476d24a33499393f74f991a0d35b5c49aa00b7f5f463d3723cb3fd616891b4b25fc64b84184d1ab5a4c19487ff5397ac583a2344519d759efaedd8bbe9566e90f1210c279d180e;",
+    "cookie": "auth_token=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx;",
     "cookie_info": "填入 cookie (auth_token与ct0字段) //重要:替换掉其中的x即可, 注意不要删掉分号",
     "emmmmmm": "以下选项三选一, 一般全false, 即 下载目标用户自己发的图片",
     "has_retweet": false,
