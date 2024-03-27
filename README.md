@@ -1,4 +1,4 @@
-###Fork https://github.com/caolvchong-top自己加了一份自动的py，仅需要改settings.json的储存位置
+###Fork https://github.com/caolvchong-top  自己加了一份自动的py，仅需要改settings.json的储存位置
 
 # 推特图片下载    ⟵(๑¯◡¯๑) 
 推特 图片 & 视频 下载，以用户名为参数，爬取该用户推文中的图片与视频(含gif)
